@@ -16,6 +16,7 @@ Let’s say yours was to travel to the legendary lost empire of Atlantis. D2D wi
 
 ### Game Technicalities: 
 The following game utilize Python essentials learned as of October 18, 2020: 
+    
     - Strings and String Manipulation
     - User-Defined Functions and Objects (variables)
     - User Input and Input Handling
