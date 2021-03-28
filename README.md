@@ -1,7 +1,7 @@
 # Text Adventure Game Development 
 Completed on Sun Oct 18, 2020
 
-Author: Vy Nguyen
+Author: Phuong-Vy Nguyen
 
 ### Game Summary: 
 The following game, titled ‘Dare to Dream’ (D2D) turns Walt Disney's infamous quote into existence: “if you can dream it, you can do it”. The game follows a brand new cryosleep program that will help make anyone’s wildest, supposedly unreachable, dreams come true. 
