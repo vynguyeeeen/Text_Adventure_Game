@@ -8,10 +8,10 @@ The following game, titled ‘Dare to Dream’ (D2D) turns Walt Disney's infamou
 
 Let’s say yours was to travel to the legendary lost empire of Atlantis. D2D will get you there. All it takes is your imagination, occasional logic and the ability  to successfully complete 4 rounds: 
 
-    ROUND 1: Confirm interests in participating
-    ROUND 2: Recruit a teammate
-    ROUND 3: Pick a mode of transportation 
-    ROUND 4: Pass security checkpoints 
+    ROUND 1:    Confirm interests in participating
+    ROUND 2:    Recruit a teammate
+    ROUND 3:    Pick a mode of transportation 
+    ROUND 4:    Pass security checkpoints 
  
  Good luck. Good night. And don’t let the bed bug bite
 
